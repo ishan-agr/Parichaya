@@ -1,0 +1,49 @@
+html{
+    --primary: #000000;
+    --card: #F5F5F5;
+    --form: rgb(97,97,97);
+}
+
+html[data-theme="dark"]{
+    --primary: #fff;
+    --card: #353839;
+    --form: #F0FFF0;
+}
+
+.selfieDummyBody{
+    border-style: solid;
+    border-color: var(--card);
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* SelfieScreen.css */
+/* SelfieScreen.css */
+.Modal {
+    position: 'absolute';
+    top: '50%';
+    left: '50%';
+    transform: 'translate(-50%, -50%)';
+    padding: '20px';
+    borderRadius: '8px';
+    background: '#fff';
+    boxShadow: '0 4px 6px rgba(0,0,0,0.1)';
+}
+
+.Overlay {
+    backgroundColor: 'rgba(0, 0, 0, 0.5)';
+}
+
+button {
+    margin: 10px;
+}
+   
+.selfieRealBody{
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: var(--card);
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: auto;
+}
