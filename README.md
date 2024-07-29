@@ -15,3 +15,9 @@ BUSINESS FEASIBILITY:
 	-Governments are increasing security compliances for public/private sector companies.
 	-Demand for third-party service providers as in-house development tends to shift companies' focus from primary businesses.
 	-Operationally Efficient solution leveraging SOTA technologies.
+
+Datasets:- 
+	1. Self-Supervised Transformer with Domain Adaptive Reconstruction for General Face Forgery Video Detection. 
+	2. WIDER FACE: Face Detection Benchmark.
+
+*All the datasets are taken from the YouData.ai platform.
